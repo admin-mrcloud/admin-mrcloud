@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing, web development, and open-source projects  
 - 🌱 I’m currently learning advanced DevOps tools and machine learning basics  
 - 💞️ I’m looking to collaborate on innovative cloud-based applications or automation scripts  
-- 📫 How to reach me: [your-email@example.com](mailto:admin@mrcloud.vn) or [Twitter/X handle]  
+- 📫 How to reach me: [admin@mrcloud.vn](mailto:admin@mrcloud.vn) or [Twitter/X handle]  
 - 😄 Pronouns: He/Him (or your preferred pronouns)  
 - ⚡ Fun fact: I once debugged a server issue while riding a roller coaster!  
 
